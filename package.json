@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "truffle-contract": "^3.0.6",
+    "whatwg-fetch": "^2.0.4"
+  }
+}
