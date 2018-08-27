@@ -1,5 +1,5 @@
 What is the developed project?
- 
+
 The proposed work consists of an incentive model based on a collaborative information economy. What is sought to be solved is the lack of connection that exists between the different databases of health service providers in Chile. The main problem is that these entities can not share the information they have about their patients without their consent.
 To solve this problem, a web solution is proposed in which the health provider can request the patient's information from his medical record stored in the systems of another health provider. The patient has the ability to authorize this request using an identity control tool. Once this authorization is validated, the application manages the sending of the cards in HL7 format, which is the most widely used standard for health information management.
 Upon receiving this information in the platform, the identifiers of the patients are encrypted and statistical methods are applied, generating information of interest in a database.
